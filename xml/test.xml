@@ -1,0 +1,94 @@
+<list last_update="2024-09-02 10:43:54" listing_count="10">
+  <property last_update="2024-08-26 11:40:23">
+    <permit_number>12345</permit_number>
+    <reference_number>think-realty-holi-1234567</reference_number>
+    <offering_type>RR</offering_type>
+    <property_type>AP</property_type>
+    <price_on_application>No</price_on_application>
+    <price>5500</price>
+    <rental_period>M</rental_period>
+    <city><![CDATA[ Dubai ]]></city>
+    <community><![CDATA[ Dubai Marina ]]></community>
+    <sub_community><![CDATA[ Marina Residences ]]></sub_community>
+    <title_en><![CDATA[ Modern 1-Bedroom Apartment with Marina Views ]]></title_en>
+    <description_en><![CDATA[ Enjoy luxury living in this fully furnished 1-bedroom apartment in the heart of Dubai Marina. Modern amenities, stunning views, and excellent connectivity make it an ideal choice for business travelers and vacationers alike. ]]></description_en>
+    <amenities>BA,BP,BW,CP,FF,BK,LF,PA,SA,SP,SE,MT,BT,CV,NS,SM,ML,PK,SY</amenities>
+    <size>750</size>
+    <bedroom>1</bedroom>
+    <bathroom>1</bathroom>
+    <agent>
+      <name><![CDATA[ Sarah Johnson ]]></name>
+      <email>sarah.johnson@thinkrealty.ae</email>
+      <phone>+971500000000</phone>
+      <photo>https://example.com/agent/sarah_johnson.png</photo>
+    </agent>
+    <parking>1</parking>
+    <photo>
+      <url last_update="2024-07-05 18:17:21" watermark="Yes">https://s3-ap-southeast-1.amazonaws.com/mycrm-pro-accounts-v2/property/full/12505/f914206f-3ad8-11ef-88da-122067beef34.png</url>
+      <url last_update="2024-07-05 18:17:21" watermark="Yes">https://s3-ap-southeast-1.amazonaws.com/mycrm-pro-accounts-v2/property/full/12505/eddab148-3ad8-11ef-b895-def685905e8d.png</url>
+    </photo>
+    <geopoints>55.278345,25.074684</geopoints>
+  </property>
+  
+  <property last_update="2024-08-27 09:20:14">
+    <permit_number>67890</permit_number>
+    <reference_number>think-realty-holi-9876543</reference_number>
+    <offering_type>RR</offering_type>
+    <property_type>VI</property_type>
+    <price_on_application>No</price_on_application>
+    <price>12000</price>
+    <rental_period>M</rental_period>
+    <city><![CDATA[ Dubai ]]></city>
+    <community><![CDATA[ Palm Jumeirah ]]></community>
+    <sub_community><![CDATA[ Signature Villas ]]></sub_community>
+    <title_en><![CDATA[ Exclusive 4-Bedroom Villa with Private Pool ]]></title_en>
+    <description_en><![CDATA[ Experience beachfront luxury in this exclusive 4-bedroom villa on Palm Jumeirah. With a private pool, modern interiors, and stunning sea views, this villa is perfect for those seeking privacy and luxury in Dubai. ]]></description_en>
+    <amenities>BA,BP,FF,BK,LF,PA,SP,SE,MT,BT,CV,NS,SM,PK,SY</amenities>
+    <size>4500</size>
+    <bedroom>4</bedroom>
+    <bathroom>5</bathroom>
+    <agent>
+      <name><![CDATA[ Ahmed Ali ]]></name>
+      <email>ahmed.ali@thinkrealty.ae</email>
+      <phone>+971509876543</phone>
+      <photo>https://example.com/agent/ahmed_ali.png</photo>
+    </agent>
+    <parking>2</parking>
+    <photo>
+      <url last_update="2024-06-26 10:26:53" watermark="Yes">https://s3-ap-southeast-1.amazonaws.com/mycrm-pro-accounts-v2/property/full/12505/47046713-3384-11ef-9519-b686ee21451c.png</url>
+<url last_update="2024-06-26 10:26:53" watermark="Yes">https://s3-ap-southeast-1.amazonaws.com/mycrm-pro-accounts-v2/property/full/12505/46540ff5-3384-11ef-b396-9a6b8721ece8.png</url>
+    </photo>
+    <geopoints>55.138756,25.112879</geopoints>
+  </property>
+
+  <property last_update="2024-08-28 15:50:12">
+    <permit_number>11223</permit_number>
+    <reference_number>think-realty-holi-6543210</reference_number>
+    <offering_type>RR</offering_type>
+    <property_type>AP</property_type>
+    <price_on_application>No</price_on_application>
+    <price>7000</price>
+    <rental_period>M</rental_period>
+    <city><![CDATA[ Dubai ]]></city>
+    <community><![CDATA[ Downtown Dubai ]]></community>
+    <sub_community><![CDATA[ Burj Khalifa Area ]]></sub_community>
+    <title_en><![CDATA[ Stunning 2-Bedroom Apartment with Burj Khalifa Views ]]></title_en>
+    <description_en><![CDATA[ Live in luxury in this 2-bedroom apartment with breathtaking views of the iconic Burj Khalifa. The apartment features modern interiors, spacious rooms, and all the comforts of home, including a fully equipped kitchen and high-speed internet. ]]></description_en>
+    <amenities>BA,BP,BW,CP,FF,BK,LF,PA,SA,SP,SE,MT,BT,CV,NS,SM,ML,PK,SY</amenities>
+    <size>1150</size>
+    <bedroom>2</bedroom>
+    <bathroom>2</bathroom>
+    <agent>
+      <name><![CDATA[ Laila Hossain ]]></name>
+      <email>laila.hossain@thinkrealty.ae</email>
+      <phone>+971500123456</phone>
+      <photo>https://example.com/agent/laila_hossain.png</photo>
+    </agent>
+    <parking>1</parking>
+    <photo>
+      <url last_update="2024-07-07 12:11:45" watermark="Yes">https://example.com/property/apt1.png</url>
+      <url last_update="2024-07-07 12:11:46" watermark="Yes">https://example.com/property/apt2.png</url>
+    </photo>
+    <geopoints>55.272200,25.194300</geopoints>
+  </property>
+</list>
